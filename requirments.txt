@@ -1,0 +1,12 @@
+langchain
+llm
+flask
+requests
+serpapi
+openai==0.28
+python-dotenv
+pdfgen
+unstructured
+unstructured[pdf]
+reportlab
+langchain-community
